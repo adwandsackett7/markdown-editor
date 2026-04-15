@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Improved error handling in edge cases
 - Reorganised test fixtures
+
+## 2026-04-15
+- Checked for memory leaks in long-running path
+- Updated dependencies to latest stable versions
+- Drafted initial implementation plan for v2
